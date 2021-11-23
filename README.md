@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi There😊
 
-<!--
-**Dhanush678/Dhanush678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dhanush Gowda.u
+From Mysore,Sjce College of Engineering
 
-Here are some ideas to get you started:
+### Fluent in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java-icon](https://user-images.githubusercontent.com/92075046/142969326-f55c9187-415c-4da1-85ad-cc922e6cd06d.png)
+![OIP (1)](https://user-images.githubusercontent.com/92075046/142969523-edbdd696-9a72-4608-96c3-56f85516af92.jpg)
+
+#### More About Me
+Tweeter Account:
+MyLink:https://twitter.com/17Dhanushgowda1
+
+
+Linkled in account
+MyLink:https://www.linkedin.com/in/dhanush-gowda-u-9b51a920b/
