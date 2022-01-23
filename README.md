@@ -5,8 +5,6 @@ From Mysore,Sjce College of Engineering
 
 ### Fluent in
 
-![Java-icon](https://user-images.githubusercontent.com/92075046/142969326-f55c9187-415c-4da1-85ad-cc922e6cd06d.png)
-![OIP (1)](https://user-images.githubusercontent.com/92075046/142969523-edbdd696-9a72-4608-96c3-56f85516af92.jpg)
 
 #### More About Me
 Tweeter Account:
