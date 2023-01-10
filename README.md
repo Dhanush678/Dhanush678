@@ -59,9 +59,7 @@
     <img src="https://img.shields.io/badge/Gradle-7952B3.svg?style=for-the-badge&logo=gradle&logoColor=white"
       alt="gradle"/>
   </a>
-  <a href="https://Tomcat.io/" target="_blank">
-    <img src="https://img.shields.io/badge/tomcat-F9DC3E.svg?style=for-the-badge&logo=tomcat&logoColor=black" alt="tomcat"/> 
-  </a>
+
   <a href="https://jetpackcompose.io/" target="_blank">
     <img src="https://img.shields.io/badge/jetpack-00D1B2.svg?style=for-the-badge&logo=jetpack&logoColor=white"
       alt="bulma"/>
@@ -69,21 +67,13 @@
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/ui deign-663399.svg?style=for-the-badge&logo=UI design&logoColor=white" alt="gatsby" />
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
+  
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
+ 
+ 
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
