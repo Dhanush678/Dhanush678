@@ -195,10 +195,10 @@
 
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+  <p>
    <a href="https://github.com/Dhanush678"><img alt="Dhanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanush678&custom_title=Dhanush678's%20Contribution%20Graph&theme=react-dark" />
 </a>
-  <br/>
+  <p/>
 
 
 
