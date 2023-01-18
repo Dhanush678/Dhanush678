@@ -186,7 +186,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Dhanush678&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Dhanush678)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanush678&theme=material-palenight)](https://github.com/Dhanush678)
-  	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanush678&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dhanush678" height="192px"/>
+  	  <img src="https://github-readme-stats.vercel.app/api/pin/top-langs?username=Dhanush678&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dhanush678" height="192px"/>
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -198,7 +198,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhanush678&layout=compact&theme=algolia" alt="Dhanush678" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/pin/?username=Dhanush678&layout=compact&theme=algolia" alt="Dhanush678" /></a> </p>
 </a>
 
 
