@@ -183,7 +183,7 @@
 ----
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush678&show_icons=true&bg_color=00000000)
+<img src = "https://github-readme-stats.vercel.app/api?username=Dhanush678&show_icons=true&bg_color=00000000 "/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush678&layout=compact)](https://github.com/Dhanush678/github-readme-stats)
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
