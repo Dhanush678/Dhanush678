@@ -184,7 +184,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
   <a href="https://github.com/Dhanush678/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush678&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.app/api/pin/?username=Dhanush678&repo=github-readme-stats" />
 </a>
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
